@@ -1,2 +1,3 @@
-# jupyter_notebooks
-This is a store for jupyter notebooks used in the assessment of different aspects of tropical cyclone activity based on large-scale environmental influences on the tropical circulation and tropical dynamics.
+# Jupyter Notebooks
+
+Repository for my Jupyter notebooks containing various analyses from my research projects. In some cases, the notebooks contain plots not featured in my publications and are meant to showcase the methodologies and calculations used. It is purely for education purposes. Please do not use or publish without permission.
